@@ -1,6 +1,6 @@
 ### Sal Zaki
 
-C#/.NET backend engineer, UK. I build payment and data systems: event-driven services, idempotent message processing, real-time streaming. On the side I build MCP servers and Claude Code plugins.
+Senior software engineer working on backend systems and AI engineering. On the backend: C#/.NET payment and data platforms, event-driven services, idempotent message processing, real-time streaming. On the AI side: MCP servers, Claude Code plugins and LLM tooling.
 
 **Backend**
 
@@ -8,7 +8,7 @@ C#/.NET backend engineer, UK. I build payment and data systems: event-driven ser
 - [finnhub-mcp](https://github.com/SalZaki/finnhub-mcp): Real-time market data over MCP, built on the official C# SDK. SSE and STDIO transports.
 - [Bank](https://github.com/SalZaki/Bank): Bank account microservice. DDD and Clean Architecture on .NET.
 
-**AI tooling**
+**AI engineering**
 
 - [antislop](https://github.com/SalZaki/antislop): Claude Code plugin that removes AI tells from prose without flattening your voice.
 - [doodleworks-mcp](https://github.com/SalZaki/doodleworks-mcp): MCP App that turns articles and posts into hand-drawn explainer illustrations. On [npm](https://www.npmjs.com/package/doodleworks-mcp).
